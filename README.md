@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Let’s Go Splunking! (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Let’s Go Splunking!</b>
+  - [Splunk analyst](https://docs.google.com/document/d/1G7Cur9dXuFUEaknHxD3HhCRU_G8ts3uOG74sPKOd2VY/edit)
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Designed our own Web Application</b>
+  - [Azure Cloud](https://docs.google.com/document/d/1O_poY2clLvVzrE0GjkAlKzHhwWzi_INXsA73Tqgf2Fs/edit)
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
