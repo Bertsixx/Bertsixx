@@ -2,9 +2,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Let’s Go Splunking! (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 <h2>📺 My Videos</h2>
 
 - [My Demonstration of Steghide](https://drive.google.com/file/d/1Oygh1nMA6CXUYTvi_0l4-c_1nL4rESWz/view?usp=sharing)
