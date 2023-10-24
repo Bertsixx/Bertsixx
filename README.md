@@ -16,9 +16,6 @@
  
 - <b>Owning the System</b>
   - [Ethical Hacking](https://docs.google.com/document/d/1xXlkvgen1IDBxttift8aX39ZVJfO6TfwNS-DM2wHOVo/edit)
- 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📺 My Videos</h2>
 
